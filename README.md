@@ -1,2 +1,2 @@
 # PBE-Elechouse
- Repository for PBE project
+ Repository for PBE subject project.
